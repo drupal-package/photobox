@@ -1,0 +1,6 @@
+{
+  "name": "drupal-package/photobox",
+  "description": "Allows to clone the yairEO/photobox repository",
+  "type": "drupal-library",
+  "keywords": ["plugin", "drupal-library", "photobox"]
+}
